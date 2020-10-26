@@ -1,2 +1,2 @@
 # Car-Game
-car game I made in python
+simple car game I made in python
